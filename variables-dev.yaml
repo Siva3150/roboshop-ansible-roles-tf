@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-dev.sivadevops.online # submit your host
+REDIS_HOST: redis-dev.sivadevops.online
+MYSQL_HOST: mysql-dev.sivadevops.online
+RABBITMQ_HOST: rabbitmq-dev.sivadevops.online
+CATALOGUE_HOST: catalogue-dev.sivadevops.online
+USER_HOST: user-dev.sivadevops.online
+CART_HOST: cart-dev.sivadevops.online
+SHIPPING_HOST: shipping-dev.sivadevops.online
+PAYMENT_HOST: payment-dev.sivadevops.online
+DISPATCH_HOST: dispatch-dev.sivadevops.online
