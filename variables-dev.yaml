@@ -8,5 +8,5 @@ CART_HOST: cart.app-dev.sivadevops.online
 SHIPPING_HOST: shipping.app-dev.sivadevops.online
 PAYMENT_HOST: payment.app-dev.sivadevops.online
 DISPATCH_HOST: dispatch.app-dev.sivadevops.online
-NEXUS_URL: http://172.31.15.124:8081/repository/
+NEXUS_URL: http://172.31.15.124:8081/repository
 group_id: "com/roboshop"
