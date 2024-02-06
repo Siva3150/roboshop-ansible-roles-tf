@@ -25,7 +25,7 @@
 
 - name: Download artifact from nexus
   ansible.builtin.get_url:
-    url: "{{NEXUS_URL}}/{{component}}/{{group_id}}/{{component}}/{{app_version}}/{{component}}-1.0.0.zip"
+    url: "{{NEXUS_URL}}/{{component}}/{{group_id}}/{{component}}/1.0.0/{{component}}-1.0.0.zip"
     dest: /tmp
 
 - name: "extract {{component}} application"
